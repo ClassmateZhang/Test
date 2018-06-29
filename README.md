@@ -7,6 +7,7 @@ An RPC framework based on Netty, ZooKeeper and Spring
 * High availability, load balance and failover
 * Service Discovery support by ZooKeeper
 ### Design:
+jdk 1.7.80
 ### How to use
 1. Define an interface:
 
