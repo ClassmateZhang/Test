@@ -1,6 +1,5 @@
 # NettyRpc
 An RPC framework based on Netty, ZooKeeper and Spring  
-中文详情：[Chinese Details](http://www.cnblogs.com/luxiaoxun/p/5272384.html)
 ### Features:
 * Simple code and framework
 * Non-blocking asynchronous call and Synchronous call support
@@ -8,7 +7,6 @@ An RPC framework based on Netty, ZooKeeper and Spring
 * High availability, load balance and failover
 * Service Discovery support by ZooKeeper
 ### Design:
-![design](https://images2015.cnblogs.com/blog/434101/201603/434101-20160316102651631-1816064105.png)
 ### How to use
 1. Define an interface:
 
